@@ -1,6 +1,5 @@
 # DoctorHub App UI Design
 
-![medicine-online]()
 <img src="https://github.com/DevPatel1109/DoctorHub-App-UI-Design/assets/96563522/d727c946-aa97-4e27-82ba-5dae9e831cf0" width="200" hight="200">
 
 
